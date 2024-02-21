@@ -70,6 +70,6 @@
     "@types/jsonwebtoken": "^9.0.2",
     "@types/uuid": "^9.0.2",
     "@types/xml-parser": "^1.2.30",
-    "release-it": "^16.1.2"
+    "release-it": "^17.1.1"
   }
 }
