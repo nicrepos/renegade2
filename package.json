@@ -34,7 +34,7 @@
     "qs": "^6.11.2",
     "socket.io-client": "^4.7.0",
     "uuid": "^9.0.0",
-    "wretch": "^2.6.0",
+    "wretch": "^2.8.0",
     "ws": "^8.13.0",
     "xml-parser": "^1.2.1",
     "xmlbuilder": "^15.1.1",
